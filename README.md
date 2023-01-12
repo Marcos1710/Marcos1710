@@ -17,7 +17,7 @@
   <div>
     <a href = "mailto:marcossamuel17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href = "https://www.linkedin.com/in/marcos-samuel-1710"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://marcos1710.github.io/">Portfólio</a>
+    <a href = "https://marcos1710.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   </div>
   
   ![Snake animation](https://github.com/Marcos1710/Marcos1710/blob/output/github-contribution-grid-snake.svg)
