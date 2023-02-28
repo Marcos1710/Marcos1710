@@ -1,4 +1,4 @@
-## Olá! eu sou o Marcos, desenvolvedor frontend e mobile!
+## Hello! I am Marcos, frontend software engineer and mobile software engineer!
 
  <div style="display: inline_block"><br>
   <img align="center" alt="MS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
