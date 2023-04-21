@@ -1,4 +1,4 @@
-## Hello! I am Marcos, frontend software engineer and mobile software engineer!
+## Hello! I am Marcos, mobile software engineer and frontend software engineer!
 
  <div style="display: inline_block"><br>
   <img align="center" alt="MS-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
