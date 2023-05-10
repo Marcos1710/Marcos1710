@@ -19,14 +19,26 @@
   
 ##
 
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=msc-santos&theme=gotham)  
-  ![Snake animation](https://github.com/msc-santos/msc-santos/blob/output/github-contribution-grid-snake.svg)
+  <div align="center">
  
-  <div>
-    <a href = "mailto:marcossamuel17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href = "https://www.linkedin.com/in/marcos-samuel-1710"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://marcos1710.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msc-santos&show_icons=true&theme=dark)
+ 
   </div>
+  
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=msc-santos&theme=gotham)  
+  
+  <div align="center">
+ 
+   ![Snake animation](https://github.com/msc-santos/msc-santos/blob/output/github-contribution-grid-snake.svg)
+ 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msc-santos&layout=donut&theme=dark)](https://github.com/msc-santos/github-readme-stats)
+
+   <div>
+     <a href = "mailto:marcossamuel17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href = "https://www.linkedin.com/in/marcos-samuel-1710"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href = "https://marcos1710.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+   </div>
+ </div>
   
 <div align="center">
  <br><p align="centre"><b>Lasts Visitors</b></p>  
