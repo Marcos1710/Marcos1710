@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Olá, eu sou o Marcos!
+### Hello, I'm Marcos!
 
 <p align="left"> 
- Sou Engenheiro de Software há 8 anos focada em diversos tipos de aplicações voltadas para Web.
- Já trabalhei em diversas empresas com projetos para Bakend, Frontend e Mobile, meu ponto central de estudos e conhecimento é com o Backend, 
- utilizando tecnologias como Java, e JavaScript.
+ I have been a Software Engineer for 8 years, focused on different types of Web-oriented applications.
+ I have worked in several companies with projects for Bakend, Frontend and Mobile, my central point of studies and knowledge is with the Backend, 
+ using technologies such as Java and JavaScript.
 </p>
 
 <h4>Skills:</h4>
 
-<h6>Linguagens e Frameworks:</h6>
+<h6>Languages ​​and Frameworks:</h6>
 <p align="left">
   <img align="center" alt="MS-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="MS-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />            
@@ -21,7 +21,7 @@
   <img align="center" alt="MS-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />        
   </p>
 
-  <h6>Bancos de dados e DevOps:</h6>
+  <h6>Databases and DevOps:</h6>
   <p align="left">
   <img align="center" alt="MS-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" /> 
   <img align="center" alt="MS-MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" /> 
@@ -32,7 +32,7 @@
   <img align="center" alt="MS-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" />  
   </p>
 
-<h4>Contatos:</h4>
+<h4>Contacts:</h4>
 <p align="left">
   <a href="mailto:marcossamuel17@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:marcossamuel17@gmail.com" alt="Gmail"/></a>
